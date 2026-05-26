@@ -37,6 +37,13 @@ Acesse o protótipo navegável pelo link abaixo:
 
 https://sleek-lever-86307225.figma.site/login
 
+
+---
+
+## Vídeo de Walkthrough
+
+Link do vídeo de apresentação:
+
 ---
 
 ## Ferramenta Utilizada
@@ -70,3 +77,13 @@ Fluxo responsável por permitir que o usuário consulte colaboradores e visualiz
 
 ```text
 Login → Dashboard → Colaboradores → Perfil do Colaborador → Cadastro de EPI → Perfil do Colaborador
+
+
+
+## Integrantes
+
+- Gabriel Yeshua Pasquali Garcia — RM 558273
+- Nicolas Alvares — RM 557271
+- Victor Augusto Ribeiro Oliveira — RM 558338
+- Pedro Henrique de Brito Garcia — RM 558867
+- Millena Queiroz Clarindo — RM 558825
