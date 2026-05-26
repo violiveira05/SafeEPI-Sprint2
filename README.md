@@ -75,11 +75,9 @@ O protótipo contempla as seguintes telas:
 
 Fluxo responsável por permitir que o usuário consulte colaboradores e visualize os EPIs vinculados a cada um.
 
-```text
 Login → Dashboard → Colaboradores → Perfil do Colaborador → Cadastro de EPI → Perfil do Colaborador
 
-
-
+---
 ## Integrantes
 
 - Gabriel Yeshua Pasquali Garcia — RM 558273
