@@ -2,8 +2,6 @@
 
 ## Prototipação Funcional e Navegável da Solução
 
-Este repositório contém a entrega da **Sprint 2** do projeto **SafeEPI**, desenvolvido para o contexto do **Challenge 2026 — FIAP × SPI Integração**, com foco em segurança industrial, gerenciamento de EPIs e monitoramento proativo de riscos.
-
 A proposta da Sprint 2 é apresentar um protótipo funcional e navegável da solução, baseado na modelagem produzida na Sprint 1, simulando a experiência real de uso por supervisores de segurança, gestores industriais e operadores de chão de fábrica.
 
 ---
