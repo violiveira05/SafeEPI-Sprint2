@@ -40,12 +40,6 @@ https://sleek-lever-86307225.figma.site/login
 
 ---
 
-## Vídeo de Walkthrough
-
-Link do vídeo de apresentação:
-
----
-
 ## Ferramenta Utilizada
 
 - Figma
